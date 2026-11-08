@@ -1259,5 +1259,16 @@
     "npm": "dsh-archived-chats",
     "category": "utility",
     "subcategory": "cleanup"
+  },
+  {
+    "id": "dsh-plugin-restart-button",
+    "name": "悬浮重启按钮",
+    "nameEn": "Floating Restart Button",
+    "author": "NYSM803",
+    "description": "在 dsh Web GUI 上加一个可拖动的悬浮重启按钮：点击确认后自动关闭并重新启动应用与 Host，运行中可随时取消、超时会自动收手并说明原因；图标（4 个自带矢量图或上传图片）、底色、位置锁定都在设置里改。",
+    "descriptionEn": "A draggable floating restart button for the dsh Web GUI: confirm, then the app and its host close and come back on their own, with a cancel button and a watchdog that ends a restart which never takes effect. Icon (four built-in glyphs or an uploaded image), background colour and position lock live in Settings.",
+    "repo": "https://github.com/NYSM803/dsh-restart-button",
+    "category": "ui",
+    "subcategory": "panel"
   }
 ]
